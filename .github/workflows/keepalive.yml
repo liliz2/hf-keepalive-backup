@@ -12,3 +12,4 @@ jobs:
       - name: Curl HuggingFace Space
         run: |
           curl -L https://huggingface.co/spaces/liliz2/Co-Mutation > /dev/null 2>&1
+          curl -L https://liliz2-co-mutation.hf.space > /dev/null 2>&1
